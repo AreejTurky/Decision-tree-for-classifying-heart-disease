@@ -1,5 +1,4 @@
 # Decision-tree-for-classifying-heart-disease
-
 A program that uses the decision trees for classifying heart disease with heart dataset to train and test the model. 
 
 Selecting the best featurs by "Gini" and we mention why in " GiniAndEntropy.ipynb "
